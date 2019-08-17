@@ -4,7 +4,7 @@ PODS:
     - Expecta (~> 1.0)
     - FBSnapshotTestCase/Core (~> 2.0)
     - Specta (~> 1.0)
-  - EYQRCodeTools (0.1.0)
+  - EYQRCodeTools (0.0.1)
   - FBSnapshotTestCase (2.1.4):
     - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
   - FBSnapshotTestCase/Core (2.1.4)
@@ -33,10 +33,10 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
   "Expecta+Snapshots": dcff217eef506dabd6dfdc7864ea2da321fafbb8
-  EYQRCodeTools: 5296e77771aa9c2d34cf68c0648d9bf1cc1e8e40
+  EYQRCodeTools: e3de19f39512f48b6583590a168f7895e25e2dd9
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
 
 PODFILE CHECKSUM: 84fb873eddedb2668e710179e93c6d6cf75e3079
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.7.5

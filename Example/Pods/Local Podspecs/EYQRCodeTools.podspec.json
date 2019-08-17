@@ -1,23 +1,26 @@
 {
   "name": "EYQRCodeTools",
-  "version": "0.1.0",
-  "summary": "A short description of EYQRCodeTools.",
-  "description": "TODO: Add long description of the pod here.",
+  "version": "0.0.1",
+  "summary": "二维码/条形码扫描生成工具",
+  "description": "二维码、条形码扫描生成工具",
   "homepage": "https://github.com/EasonYin/EYQRCodeTools",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "EasonYin": "huadong2593@163.com"
+    "EasonY": "huadong2593@163.com"
   },
   "source": {
     "git": "https://github.com/EasonYin/EYQRCodeTools.git",
-    "tag": "0.1.0"
-  },
-  "platforms": {
-    "ios": "8.0"
+    "tag": "0.0.1"
   },
   "source_files": "EYQRCodeTools/Classes/**/*",
-  "resources": "EYQRCodeTools/Assets/*.xcassets"
+  "resources": "EYQRCodeTools/Assets/*.xcassets",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
 }
